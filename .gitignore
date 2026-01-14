@@ -1,0 +1,40 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+bin/
+obj/
+
+# Machine Learning Models
+models/
+*.cbm
+*.pkl
+*.h5
+*.pt
+*.onnx
+
+# Data
+data/raw/
+data/processed/
+*.csv
+*.json
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.py[cod]
+*$py.class
+catboost_info/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Project Outputs
+outputs/*.png
+outputs/*.jpg
+outputs/*.pdf
+
+# User-specific files
+.DS_Store
+.env
