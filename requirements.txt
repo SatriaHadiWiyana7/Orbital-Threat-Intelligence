@@ -1,0 +1,18 @@
+# Data Manipulation & Visualization
+pandas
+numpy
+matplotlib
+seaborn
+
+# Machine Learning Core
+scikit-learn
+imbalanced-learn
+
+# GPU Accelerated Algorithms
+xgboost
+catboost
+lightgbm
+
+# Notebook Integration
+ipykernel
+notebook
